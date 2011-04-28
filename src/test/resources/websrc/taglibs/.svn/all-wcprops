@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jsptest/!svn/ver/260/tags/jsptest-0.19/jsptest-generic/jsptest-framework/src/test/resources/websrc/taglibs
+END
+custom-taglib.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/jsptest/!svn/ver/260/tags/jsptest-0.19/jsptest-generic/jsptest-framework/src/test/resources/websrc/taglibs/custom-taglib.jsp
+END
+standard-taglibs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/jsptest/!svn/ver/260/tags/jsptest-0.19/jsptest-generic/jsptest-framework/src/test/resources/websrc/taglibs/standard-taglibs.jsp
+END
